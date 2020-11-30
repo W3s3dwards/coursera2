@@ -1,4 +1,8 @@
-Module 4 Assignment Instructions.
+// ******************************* 
+// START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT
+// *******************************
+//
+// Module 4 Assignment Instructions.
 //
 // The idea of this assignment is to take an existing array of names
 // and then output either Hello 'Name' or Good Bye 'Name' to the console.
